@@ -1,9 +1,11 @@
 # DSC180A-Methodology-4
 
 **Name:** Jason Huynh 
+
 **Email:** jah037@ucsd.edu  
 
 **Section:** B26/B24
+
 **Mentor:** Ali Arsanjani and Sam Lau
 
 ---
